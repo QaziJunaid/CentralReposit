@@ -1,0 +1,475 @@
+    1  ls
+    2  yum update git
+    3  yum install git -y
+    4  clear
+    5  which git
+    6  mkdir LocalReposit
+    7  cd LocalReposit/
+    8  cat> FirstFile
+    9  cat FirstFile 
+   10  cat> FirstFile 
+   11  clear
+   12  cat FirstFile 
+   13  git init
+   14  git add .
+   15  git log
+   16  git commit -m"File Commited by Mumbai User2"
+   17  git config --global user.name"Junaid qazi"
+   18  git config --global user.name"Junaidqazi"
+   19  git config --global user.email"Junaidqazi@gmail.com"
+   20  git config --list
+   21  git log
+   22  git show 0327e8dd49
+   23  cat >> FirstFile 
+   24  cat FirstFile 
+   25  clear
+   26  git add .
+   27  git commit -m "Second Commit added by Mumbai User2"
+   28  git log
+   29  git remote add origin git@github.com:QaziJunaid/CentralReposit.git
+   30  git branch -M main
+   31  git push -u origin main
+   32  sudo vi /etc/ssh/sshd_config
+   33  clear
+   34  git log
+   35  git remote add origin git@github.com:QaziJunaid/CentralReposit.git
+   36  sudo yum update
+   37  exit
+   38  git config --list 
+   39  git config --global user.name "MumbaiUser1"
+   40  git config --global user.email "MumbaiUser1@gmail.com:
+   41  git config --global user.email "MumbaiUser1@gmail.com"
+   42  git config --global user.email "MumbaiUser1@gmail.com"
+   43  git config --list 
+   44  ls
+   45  Cd LocalReposit/
+   46  cd LocalReposit
+   47  clear
+   48  git push -u origin main
+   49  cd..
+   50  exit
+   51  ls
+   52  rm -rf LocalReposit/
+   53  clear
+   54  ls
+   55  mkdir LocalRepository
+   56  git config --list
+   57  cat >Firstfile
+   58  cat Firstfile 
+   59  git init
+   60  git add .
+   61  git commit -m "change commited by Mumbai User1"
+   62  git log
+   63  git show f87600f302eeb
+   64  ls
+   65  ls LocalRepository/
+   66  rm -rf Firstfile 
+   67  clear
+   68  cat> LocalRepository/FirstFile
+   69  cd LocalRepository/
+   70  clear
+   71  cat> FirstFile
+   72  git init
+   73  git add .
+   74  git commit -m "Commit added by Mumbai User1"
+   75  git log
+   76  git show 381f567e2391
+   77  git remote add origin git@github.com:QaziJunaid/CentralReposit.git
+   78  git branch -M main
+   79  git push -u origin main
+   80  clear
+   81  su
+   82  cd..
+   83  cd \
+   84  clear
+   85  ls
+   86  git config --list
+   87  cd LocalRepository/
+   88  git push -u origin main
+   89  ls
+   90  git log
+   91  clear
+   92  vi /etc/ssh/sshd_config
+   93  git push -u origin main
+   94  git branch
+   95  git log
+   96  git push -u origin main
+   97  git remote add origin https://github.com:QaziJunaid/CentralReposit.git
+   98  git --list
+   99  git remote 
+  100  git remote add origin https://github.com:QaziJunaid/CentralReposit.git
+  101  git remote delete origin
+  102  git remote remove origin
+  103  git remote add origin https://github.com:QaziJunaid/CentralReposit.git
+  104  git push -u origin main
+  105  clear
+  106  git push -u origin main
+  107  git branch
+  108  git remote remove origin 
+  109  git remote add origin https://github.com/QaziJunaid/CentralReposit.git
+  110  git push -u origin main
+  111  clear
+  112  cat>>FirstFile Second line of code added by Mumbai user1
+  113  cat>>FirstFile
+  114  cat FirstFile 
+  115  git add.
+  116  git add .
+  117  git commit -m "Sec comment added by Mumbai Uer1"
+  118  git push -u origin main
+  119  clear
+  120  Second line of code added by Mumbai user1
+  121  clear
+  122  cd LocalRepository/
+  123  ls
+  124  cat first file
+  125  cat FirstFile 
+  126  git log
+  127  clear
+  128  git log -1
+  129  git log-2
+  130  git log -2
+  131  git log -oneline
+  132  git log --oneline
+  133  git show "381f567"
+  134  clear
+  135  cd ..
+  136  ls -a
+  137  clear
+  138  ls
+  139  ls -a
+  140  rm -rf LocalRepository/
+  141  clear
+  142  ls
+  143  mkdir LocalRepository
+  144  git init
+  145  vi index.html
+  146  git add .
+  147  git commit -m"index File added by Mumbai User1"
+  148  git log
+  149  ls
+  150  rm -rf .git
+  151  ls
+  152  mv index.html LocalRepository/
+  153  ls
+  154  cd LocalRepository/
+  155  clear
+  156  which git
+  157   ls -a
+  158  init git
+  159  git init
+  160  clear
+  161  vi NewFile
+  162  git add .
+  163  cd ..
+  164  git config 
+  165  clear
+  166  git config --list
+  167  cd LocalRepository/
+  168  git commit -m "Files added by Mumbaiuser1"
+  169  git remote add origin https://github.com/QaziJunaid/CentralReposit.git
+  170  git branch
+  171  git branch -M main
+  172  git branch
+  173  git push origin main
+  174  QaziJunaid
+  175  git push origin main:main
+  176  clear
+  177  clear
+  178  ls
+  179  cd ..
+  180  sudo su -
+  181  ls
+  182  cd LocalRepository/
+  183  ls
+  184  git pull origin main:main
+  185  ls
+  186  clear
+  187  ls
+  188  git log
+  189  git log --grep "lon"
+  190  git log --grep "Lon"
+  191  clear
+  192  git branch NewBranch
+  193  ls
+  194  git branch 
+  195  git checkout
+  196  git branch
+  197  git checkout NewBranch 
+  198  git branch
+  199  touch NewFile{1..5}
+  200  ls
+  201  git add .
+  202  git commit -m "NewFiles1-5 added"
+  203  git push origin NewBranch:Main
+  204  git push origin NewBranch:main
+  205  git branch
+  206  git pull origin main
+  207  git push origin NewBranch:Main
+  208  ls
+  209  clear
+  210  ls
+  211  git checkout
+  212  git branch
+  213  git branch NewBranch 
+  214  clear
+  215  ls
+  216  git branch Branch1
+  217  ls
+  218  git branch
+  219  git checkout Branch1 
+  220  ls
+  221  git branch -d Branch1 
+  222  git checkout main
+  223  ls
+  224  git branch -d Branch1 NewBranch 
+  225  git branch -d Branch1 
+  226  git branch -d Branch1 -f
+  227  git branch Branch1
+  228  git branch -d Branch1 NewBranch -f
+  229  ls
+  230  git branch
+  231  clear
+  232  ls
+  233   rm -rf FILE*
+  234  ls
+  235  clear
+  236  Git Branch Branch1
+  237  Git branch Branch1
+  238  git branch Branch1
+  239  git branch
+  240  git checkout Branch1 
+  241  git checkout main
+  242  ls
+  243  clear
+  244  git checkout main
+  245  git checkout NewFile
+  246  ls
+  247  git branch
+  248  ls
+  249  git checkout NewFile
+  250  git branch main
+  251  git branch
+  252  git checkout NewFile
+  253  git branch
+  254  git checkout Branch1
+  255  ls
+  256  clear
+  257  touch BranchFile
+  258  clear
+  259  git branch
+  260  ls
+  261  git merge main
+  262  git log --online
+  263  git add .
+  264  git commit -m "BranchFile added"
+  265  git log --oneline
+  266  git branch
+  267  git merge Branch1 
+  268  git checkout main
+  269  git merge Branch1 
+  270  ls
+  271  clear
+  272  git branch 
+  273  git branch -d Branch1 
+  274  ls
+  275  git branch 
+  276  ls
+  277  git branch Branch1
+  278  Cat>BranchFile
+  279  Cat > BranchFile
+  280  cat > BranchFile
+  281  git branch
+  282  ls
+  283  cat BranchFile  
+  284  git checkout Branch1 
+  285  git branch
+  286  vi BranchFile
+  287  git checkout main
+  288  git branh
+  289  git branch
+  290  git merge Branch1 
+  291  clear
+  292  git branch
+  293  ls
+  294  cat BranchFile 
+  295  git checkout Branch1 
+  296  ls
+  297  cat BranchFile 
+  298  cat >> BranchFile 
+  299  cat BranchFile 
+  300  ls
+  301  git branch
+  302  cat> BranchFile 
+  303  git checkout main
+  304  ls
+  305  git checkout Branch1 
+  306  cat BranchFile 
+  307  git add.
+  308  git add .
+  309  git commit -m "Data removed from Branchfile"
+  310  git checkout main
+  311  cat BranchFile 
+  312  clear
+  313  cat BranchFile 
+  314  cat > BranchFile 
+  315  git add .
+  316  git commimt -m "Test MainFile"
+  317  git comimt -m "Test MainFile"
+  318  git commit -m "Test MainFile"
+  319  clear
+  320  git branch
+  321  git merge Branch1 
+  322  vi BranchFile 
+  323  git commit -m "Conflict resolved in BranchFile"
+  324  git merge Branch1 
+  325  ls
+  326  git checkout Branch1 
+  327  ls
+  328  vi BranchFile 
+  329  git commit -m "Conflict Resolve:"
+  330  git merge Branch1 
+  331  git add .
+  332  git commit -m "Conflict resolved:"
+  333  ls
+  334  cat BranchFile 
+  335  clear
+  336  git branch -d Branch1 
+  337  git branch 
+  338  git push origin main:main
+  339  git pull origin main
+  340  git push origin main:main
+  341  clear
+  342  cat BranchFile 
+  343  vi BranchFile 
+  344  git stash
+  345  git stash list
+  346  vi BranchFile 
+  347  git stash 
+  348  git stash list
+  349  git apply stash{1}
+  350  git apply stash@{1}
+  351  git stash apply stash@{0}
+  352  cat BranchFile 
+  353  git add .
+  354  git commit "Line2 Added"
+  355  git stash apply stash@{0}
+  356  cat BranchFile 
+  357  git add .
+  358  cat BranchFile 
+  359  git commit -m "Fisrt line of code added"
+  360  cat BranchFile 
+  361  clear
+  362  git stash apply stash@{0}
+  363  git stash list
+  364  git show e6728f5 
+  365  git add .
+  366  git stash apply stash@{0}
+  367  clear
+  368  ls
+  369  git stash apply stash@{1}
+  370  git add .
+  371  git commit -m "Added"
+  372  cat BranchFile 
+  373  git status
+  374  clear
+  375  ls
+  376  touch TempFile
+  377  git status
+  378  git add .
+  379  git reset --hard
+  380  git status
+  381  ls
+  382  touch tempFile
+  383  git add .
+  384  git commit -m "tempFile"
+  385  git ststus
+  386  git status
+  387  clear
+  388  git log --onlikne
+  389  git log --oneline
+  390  git revert 3ff380f
+  391  ls
+  392  git log --oneline
+  393  git status
+  394  clear
+  395  touch TempFile{1..5}
+  396  git ststus
+  397  git status
+  398  git Clean
+  399  git clean -n
+  400  git clean -f
+  401  git ststus
+  402  git status
+  403  clear
+  404  git branch
+  405  git branch TempLocalRep
+  406  git checkout TempLocalRep 
+  407  ls
+  408  git pull origin TempLocalRep:TempBranch
+  409  git pull origin TempBranch:TempLocalRep 
+  410  git pull origin TempBranch:TempLocalRep -f
+  411  ls
+  412  git ststus
+  413  git status
+  414  vi TempFile
+  415  git add .
+  416  git commit -m "TempFile"
+  417  git branch
+  418  git push origin main:TempBranch 
+  419  ls
+  420  vi tempFile2
+  421  git add .
+  422  git ststus
+  423  git status
+  424  git commit -m "tempFile2"
+  425  git push origin TempLocalRep:TempBranch 
+  426  git push origin TempLocalRep:TempBranch -f
+  427  ls
+  428  clear
+  429  exit
+  430  ls
+  431  mkdir CLocalRepository
+  432  git clone origin
+  433  ls
+  434  cd LocalRepository/
+  435  ls
+  436  git branch
+  437  git checkout main
+  438  git branch
+  439  git merge TempLocalRep 
+  440  git commit -m "LocalRep Merged"
+  441  git status
+  442  git Branch
+  443  clear
+  444  git Branch
+  445  ls
+  446  git checkout main
+  447  git branch
+  448  git branch -d TempLocalRep
+  449  git branch
+  450  clear
+  451  git push origin main:TempBranch 
+  452  ls
+  453  vi .gitignore
+  454  cat .ignore
+  455  cat .gitignore
+  456  mkdir Root
+  457  mv N* Root/
+  458  ls
+  459  mv T* Root/
+  460  ls
+  461  mv BranchFile Root/
+  462  ls
+  463  mv t* Root/
+  464  ls
+  465  touch Test.js Test1.cs Test2.txt
+  466  ls
+  467  git add .
+  468  git status
+  469  touch main
+  470  git add .
+  471  git status
+  472  git commit -m "Organised files and added main"
+  473  git push origin main:main
+  474  clear
+  475  history>>History
